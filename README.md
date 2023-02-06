@@ -46,6 +46,7 @@ You can then check the following logs.
 
 ## Visualize queues and jobs 
 
+<img width="1430" alt="スクリーンショット 2023-02-07 8 38 05" src="https://user-images.githubusercontent.com/15213369/217112111-a5811883-5e28-49db-ae17-ea1fba8a46d0.png">
 
 
 ## Reference
