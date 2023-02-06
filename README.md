@@ -19,10 +19,10 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
-## Start redis
+## Start redis and bull-board
 
 ```bash
-docker-compose up redis
+docker-compose up
 ```
 
 
@@ -43,6 +43,10 @@ You can then check the following logs.
 
 [Nest] 50444  - 02/07/2023, 8:11:53 AM   DEBUG [AudioProcessor] Transcoding completed
 ```
+
+## Visualize queues and jobs 
+
+
 
 ## Reference
 
